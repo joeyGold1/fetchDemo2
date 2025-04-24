@@ -1,0 +1,11 @@
+{
+  "name": "fetchdemo",
+  "version": "1.0.0",
+  "main": "fetchDemo.js",
+  "author": "Joey Gold",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
