@@ -5,8 +5,9 @@
   "author": "Joey Gold",
   "license": "ISC",
   "description": "",
-   "type": "module",
+  "type": "module",
   "dependencies": {
+    "dotenv": "^16.5.0",
     "node-fetch": "^3.3.2"
   }
 }
